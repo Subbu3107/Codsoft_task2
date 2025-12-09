@@ -23,10 +23,10 @@ It performs basic arithmetic operations such as addition, subtraction, multiplic
 python calculator.py
 
 
-#🙌 Internship Info
+## 🙌 Internship Info
 This project is submitted as Task 2 for the CodSoft Python Development Internship.
 
 ## 📬 Author
 Subbu Murugan Konar
 TYBSc Computer Science
-GitHub: (https://github.com/Subbu3107/Codsoft_task2)
+GitHub:https://github.com/Subbu3107/Codsoft_task2
